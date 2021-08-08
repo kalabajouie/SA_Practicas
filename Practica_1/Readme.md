@@ -1,5 +1,8 @@
 # PRACTICA 1
 
+- Nombre: Luis Eduardo Hernández Amado
+- Carnet: 200714432
+
 Este es el [LINK](https://youtu.be/7w8XhcWuS1s) del video 
 
 
