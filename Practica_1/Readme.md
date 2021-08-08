@@ -68,6 +68,7 @@ El cross selling o venta cruzada es una técnica consiste en ofrecer a un potenc
 Continuando con el ejemplo del teléfono, el ejemplo de cross sell seria al momento del usuario haber comprado el teléfono de gama media ofrecerle un producto complementario para dicho teléfono, por ejemplo un power bank o un case.
 
 ![a](https://vilmanunez.com/wp-content/uploads/2016/11/DIFERENCIA-ENTRE-UP-SELLING-Y-CROSS-SELLING.png)
+![b](https://github.com/kalabajouie/SA_Practicas/blob/main/Practica_1/up%20cross.png)
 
 ### Ventajas y desventajas del up selling y cross selling
 
