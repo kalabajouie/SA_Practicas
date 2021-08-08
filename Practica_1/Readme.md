@@ -46,15 +46,20 @@ La implementación de un programa o email de recuperación de carritos abandonad
 *	¿Qué beneficios ofrece su implementación?: Ofrece la posibilidad de recuperar los carritos que se perdieron en un momento dado y que, por tanto, el usuario termine la transacción. Es una clara herramienta para aumentar las ventas en el e-commerce.
 
 
-# Up selling y Cross selling
+## Up selling y Cross selling
 
-## Qué es el up selling
+### Qué es el up selling
 
 El up selling o venta adicional es una técnica de marketing que consiste en ofrecer a un cliente o potencial cliente un producto o servicio similar, y por lo general de mayor calidad y/o precio al que quiere comprar. En caso de éxito se logra un mayor beneficio con el cliente.
 
 Un ejemplo de up selling en e-commerce sería cuando un cliente está por adquirir un teléfono de gama media, y antes de pagar el sitio le muestra las ofertas de teléfonos gama alta o hasta una comparación entre el teléfono seleccionado y otro de mejores características. Al final la elección es del cliente pero tiene dos opciones, la que el escogió o la del up sell.
 
-## Qué es el cross selling
+### Qué es el cross selling
 El cross selling o venta cruzada es una técnica consiste en ofrecer a un potencial cliente o cliente algo complementario al producto o servicio que quiere comprar o que ha comprado.
 
 Continuando con el ejemplo del teléfono, el ejemplo de cross sell seria al momento del usuario haber comprado el teléfono de gama media ofrecerle un producto complementario para dicho teléfono, por ejemplo un power bank o un case.
+
+### Ventajas y desventajas del up selling y cross selling
+
+Las ventajas de ambas técnicas de marketing son obvias, si los clientes adquieren las ofertas mostradas el negocio tendrá un mayor beneficio. 
+Las desventajas podrían ser por ejemplo que si el up sell es muy agresivo (como agregar cosas extras por defecto a la venta) que el cliente se moleste y cancele la compra e incluso que nunca mas vuelva a visitar el sitio.
