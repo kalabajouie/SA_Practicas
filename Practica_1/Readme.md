@@ -1,9 +1,14 @@
 # PRACTICA 1
 
+Este es el [LINK](https://youtu.be/7w8XhcWuS1s) del video 
+
+
+
 ## ¿Qué es el carrito abandonado?
 
 El “carrito abandonado” se produce cuando un cliente entra al sitio de un e-commerce y añade determinados productos a su carrito pero se marcha sin comprar. El problema es que el cliente se va y deja todos los productos ahí, sin comprar.
-En términos analógicos o físicos, es el equivalente a que un cliente entre en una tienda física y se vaya de rositas, sin comprar nada.
+
+En términos analógicos o físicos, es el equivalente a que un cliente entre en una tienda física y se vaya, sin comprar nada.
 Según datos de un estudio del Baymard Institute, el 69,80% de las personas que entran en el carrito de una tienda online lo dejan abandonado.
 
 Las principales causas para dejar un carrito abandonado son:
@@ -34,6 +39,8 @@ No sólo debes proporcionar la mayor cantidad de información posible a tus clie
 - A menudo los usuarios continúan el Funnel de Conversión hasta el final, aunque saben desde el primer momento que no van a comprar el producto.
 Esto puede ocurrir porque desean conservarlo en el carrito para tenerlo presente más adelante, porque quieren conocer las facilidades de pago y solo acceden de esta forma, porque quieren saber si realmente el ítem está en stock, y demás motivos que dan cuenta de que el usuario no está interesado en realizar la compra en ese momento.
 
+
+
 ## Ventajas y desventajas
 
 La ventaja del carrito abandonado es que existe la posibilidad que el cliente acceda y adquiera los productos o servicios que dejó abandonados previamente, lo que se traduce en beneficio para el comercio. Una de las desventajas podría ser que el cliente se sienta abrumado o hastiado con los correos informando del carrito abandonado y quede en su mente una mala impresión del comercio.
@@ -45,6 +52,7 @@ La implementación de un programa o email de recuperación de carritos abandonad
 *	¿Cómo funciona?: Cuando un usuario abandona los productos en el carrito y pasa un determinado tiempo, se envía un email de forma automática para recordarle que en cualquier momento puede finalizar la compra.
 *	¿Qué beneficios ofrece su implementación?: Ofrece la posibilidad de recuperar los carritos que se perdieron en un momento dado y que, por tanto, el usuario termine la transacción. Es una clara herramienta para aumentar las ventas en el e-commerce.
 
+![a](https://www.digitalresponse.es/wp-content/uploads/2017/03/abandonde_3.jpg)
 
 ## Up selling y Cross selling
 
@@ -58,6 +66,8 @@ Un ejemplo de up selling en e-commerce sería cuando un cliente está por adquir
 El cross selling o venta cruzada es una técnica consiste en ofrecer a un potencial cliente o cliente algo complementario al producto o servicio que quiere comprar o que ha comprado.
 
 Continuando con el ejemplo del teléfono, el ejemplo de cross sell seria al momento del usuario haber comprado el teléfono de gama media ofrecerle un producto complementario para dicho teléfono, por ejemplo un power bank o un case.
+
+![a](https://vilmanunez.com/wp-content/uploads/2016/11/DIFERENCIA-ENTRE-UP-SELLING-Y-CROSS-SELLING.png)
 
 ### Ventajas y desventajas del up selling y cross selling
 
