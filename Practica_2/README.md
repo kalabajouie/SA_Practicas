@@ -2,6 +2,12 @@
 Repositorio para el laboratorio de Software Avanzado 2do semestre 2021
 
 ## Practica 2
+
+_LINK DEL VIDEO_
+```
+https://youtu.be/5j-1vBeQRqM
+```
+
 La presente practica consistía en crear 3 servicios (cliente, restaurante y repartidor) cada uno con sus propios metodos, funciones o endpoints, por ejemplo el servicio de Cliente
 tenia las funcionalidades de Hacer pedido, consultar estado del pedido en el restaurante, consultar estado del pedido con el repartidor.
 
