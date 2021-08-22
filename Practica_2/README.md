@@ -19,8 +19,8 @@ http://localhost:5003/repartidor.asmx
 ![Archivo importante en servicio cliente.](https://github.com/kalabajouie/SA_Practicas/blob/main/Practica_2/1.png "Cliente")
 Archivo importante en servicio cliente.
 
-![Archivo importante en servicio restaurante.](https://github.com/kalabajouie/LabSA2021_200714432/blob/Practica3/2.png "Restaurante")
+![Archivo importante en servicio restaurante.](https://github.com/kalabajouie/SA_Practicas/blob/main/Practica_2/2.png "Restaurante")
 Archivo importante en servicio restaurante.
 
-![Archivo importante en servicio Repartidor.](https://github.com/kalabajouie/LabSA2021_200714432/blob/Practica3/3.png "Repartidor")
+![Archivo importante en servicio Repartidor.](https://github.com/kalabajouie/SA_Practicas/blob/main/Practica_2/3.png "Repartidor")
 Archivo importante en servicio Repartidor.
